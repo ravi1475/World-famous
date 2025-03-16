@@ -6,7 +6,7 @@ REPO_PATH = "path/to/your/repository"
 
 
 # Loop to create 150 commits
-for i in range(1, 151):
+for i in range(1551, 1701):
     filename = f"commit_file_{i}.txt"
     
     # Create/modify a file to ensure changes for each commit
